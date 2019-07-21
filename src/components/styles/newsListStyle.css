@@ -1,0 +1,27 @@
+.mainContainer {
+    background-color: rgba(87, 155, 158, 0.347);
+    border: 1px solid #B39DDB;
+    padding: 10px;
+    display: flex;
+  }
+  
+  .fullContainer {
+    margin: 10px auto;
+    width: 50%;
+  }
+  
+  .textWrapper {
+    margin-left: 10px;
+    padding-right: 7%;
+    font-size: 2em;
+  }
+  
+  .newsTitle {
+    font-size: 1.1em; 
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+  }
+  
+ 
